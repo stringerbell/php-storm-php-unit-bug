@@ -1,0 +1,12 @@
+{
+    "name": "dannstockton/phpunit-bug",
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Dann Stockton",
+            "email": "dannstockton@i3logix.com"
+        }
+    ]
+}
